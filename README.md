@@ -16,8 +16,3 @@ Skills
 Socials
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/daniel-rev-angel/)
-
-My GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=danichini&show_icons=true&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danichini&show_icons=true&theme=radical&langs_count=5">
