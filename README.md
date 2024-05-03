@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniel Angel 👋
 
-### Full-Stack and Mobile Developer 💻
+### Full-Stack and Mobile Developer 💻 📱
 
 I've been coding professionally for 6 years, and worked as a mobile tech lead for 1, recently moved to the UK to challenge myself in another country trying to learn a new culture and keep challenging myself with new technologies
 
