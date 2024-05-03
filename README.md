@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there, I'm Daniel Angel 👋
 
-<!--
-**danichini/danichini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack and Mobile Developer 💻
 
-Here are some ideas to get you started:
+I've been coding professionally for 6 years, and worked as a mobile teck lead for 1, recently moved to the UK to challenge myself in another country trying to learn a new culture and keep challenging myself with new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 I'm based in Maracaibo, Venezuela 🇻🇪
+- 🧠 I’m learning Swift and Objective-C
+- 👯 I’m looking to collaborate on any frontend project
+- 📫 How to reach me: daniel.rev.angel@gmail.com
+
+Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,tailwind,react,vue,nodejs,ruby,jest,cypress,docker,graphql,firebase,git,bitbucket,github,mongo,py,vscode,jira)](https://skillicons.dev)
+
+Socials
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/daniel-rev-angel/)
+
+My GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=danichini&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danichini&show_icons=true&theme=radical&langs_count=5">
