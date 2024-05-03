@@ -2,7 +2,7 @@
 
 ### Full-Stack and Mobile Developer 💻
 
-I've been coding professionally for 6 years, and worked as a mobile teck lead for 1, recently moved to the UK to challenge myself in another country trying to learn a new culture and keep challenging myself with new technologies
+I've been coding professionally for 6 years, and worked as a mobile tech lead for 1, recently moved to the UK to challenge myself in another country trying to learn a new culture and keep challenging myself with new technologies
 
 - 🌍 I'm based in Ashford, Kent, UK 🇬🇧
 - 🧠 I’m learning Swift and Objective-C
