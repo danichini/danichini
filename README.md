@@ -4,7 +4,7 @@
 
 I've been coding professionally for 6 years, and worked as a mobile teck lead for 1, recently moved to the UK to challenge myself in another country trying to learn a new culture and keep challenging myself with new technologies
 
-- 🌍 I'm based in Maracaibo, Venezuela 🇻🇪
+- 🌍 I'm based in Ashford, Kent, UK
 - 🧠 I’m learning Swift and Objective-C
 - 👯 I’m looking to collaborate on any frontend project
 - 📫 How to reach me: daniel.rev.angel@gmail.com
