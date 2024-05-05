@@ -11,7 +11,7 @@ I've been coding professionally for 6 years, and worked as a mobile tech lead fo
 
 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,tailwind,react,vue,nodejs,ruby,jest,cypress,docker,graphql,firebase,git,bitbucket,github,mongo,py,vscode,jira)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,tailwind,react,vue,nodejs,ruby,jest,cypress,docker,graphql,firebase,git,bitbucket,github,mongo,py,vscode,jira,linux)](https://skillicons.dev)
 
 Socials
 
