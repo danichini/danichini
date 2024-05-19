@@ -6,7 +6,6 @@ I've been coding professionally for 6 years, and worked as a mobile tech lead fo
 
 - 🌍 I'm based in Ashford, Kent, UK 🇬🇧
 - 🧠 I’m learning Swift and Objective-C
-- 👯 I’m looking to collaborate on any backend projects
 - 📫 How to reach me: daniel.rev.angel@gmail.com
 
 Skills
